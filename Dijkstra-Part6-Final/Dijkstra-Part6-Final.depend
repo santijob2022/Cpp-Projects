@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1658693541 source:c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\create_rgraph_matrix.cpp
+	"create_rgraph_matrix.h"
+	<iostream>
+
+1658098218 c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\create_rgraph_matrix.h
+
+1658693987 source:c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\graph_class.cpp
+	"graph_class.h"
+	"List.h"
+	<iostream>
+
+1658509243 c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\graph_class.h
+	"create_rgraph_matrix.h"
+	"List.h"
+
+1658513207 c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\list.h
+	"list_element.h"
+
+1658514066 c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\list_element.h
+
+1658694210 source:c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\list.cpp
+	"List.h"
+	<iostream>
+
+1658090238 source:c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\list_element.cpp
+	"list_element.h"
+	<iostream>
+
+1658694103 source:c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\min_heap.cpp
+	"main.h"
+	"min_heap.h"
+	<iostream>
+	<limits>
+
+1658693624 c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\main.h
+	<iostream>
+	<time.h>
+	"List.h"
+	"graph_class.h"
+	"min_heap.h"
+	"shortestPath.h"
+
+1658635650 c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\min_heap.h
+
+1658703765 c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\shortestpath.h
+	"shortestPath.h"
+	"graph_class.h"
+	"min_heap.h"
+	"List.h"
+
+1658705123 source:c:\users\valentín\valasus dropbox\valentín jiménez\pc\documents\vjds\programming\coursera\codingforeveryonecandcppspecialization\course3\week3\dijkstra-part6-final\shortestpath.cpp
+	"shortestPath.h"
+	<iostream>
+
