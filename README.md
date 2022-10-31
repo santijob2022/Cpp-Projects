@@ -2,7 +2,7 @@
 
 ## Dijkstra Algorithm
 
-This is a first part of a bigger project. The final objective is to build a Hex game, that can play with the user.
+This is a first part of a bigger project. The final objective is to build a Hex game, that can play with the user, so my objective is to include artificial intelligence with C++.
 
 ### Problem Statement
 On a randomly generated graph of 50 nodes with weights ranging from 1.0 to 10.0,
